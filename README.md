@@ -53,7 +53,7 @@ Command reference:
 	c - insert wheel cell before current cell, Wp = new cell
 	d - delete wheel cell at Wp (Wp points at the next cell)
 	e - A = weave(A)
-	f - jump to next valid market (using marker state)
+	f - jump to next valid marker (using marker state)
 	g - A = P
 	h - Pp++
 	i - Wp++
