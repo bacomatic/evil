@@ -3,7 +3,7 @@ Implementation of the [_evil_](http://www1.pacific.edu/~twrensch/evil/index.html
 
 The evil VM is pretty simple:
 
-Each "cell" contains one byte of data, or 8 bit character (UTF8?).
+Each "cell" contains one byte of data, or 8 bit character (ASCII).
 
 Three memory pools:
 
